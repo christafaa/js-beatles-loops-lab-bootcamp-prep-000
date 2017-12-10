@@ -22,7 +22,9 @@ function johnLennonFacts(array) {
 function iLoveTheBeatles(number) {
   var result = [];
   do {
-    result.push("I love the Beatles!")
+    result.push("I love the Beatles!");
+    number++;
   } 
-  while ()
+  while (number < 15);
+  return result;
 }
