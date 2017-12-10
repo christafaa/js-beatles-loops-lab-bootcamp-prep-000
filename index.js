@@ -18,3 +18,5 @@ function johnLennonFacts(array) {
   }
   return result;
 }
+
+iLoveTheBeatles
